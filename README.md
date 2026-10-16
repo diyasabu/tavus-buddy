@@ -1,7 +1,7 @@
 # Tara: an onboarding buddy that builds PALs with you
 
-**Demo (Loom):** <LOOM_LINK>
-**Try her live:** Tara lives in my Tavus account as PAL `<TARA_PAL_ID>`. Message me and I'll start a session for you.
+**Demo (Loom):** https://www.loom.com/share/23e1e00b79f44a6c841393ad68ae9589
+**Try her live:** Tara lives in my Tavus account as PAL `p0f88c666a0c`. Message me and I'll start a session for you.
 
 Tara is a Tavus PAL for new engineers joining the Customer Engineering team. She makes small talk, pulls up your onboarding profile, explains what a PAL is, and then builds your first PAL with you, live, by calling the Tavus API through tools. Come back the next day and she remembers you and what you built.
 
