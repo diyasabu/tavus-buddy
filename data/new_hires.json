@@ -1,0 +1,15 @@
+[
+  {
+    "email": "diya@tavus.io",
+    "first_name": "Diya",
+    "role": "Forward Deployed Engineer",
+    "team": "Customer Engineering",
+    "manager": "the CE lead",
+    "start_date": "2026-10-20",
+    "first_week_goals": [
+      "Build and demo a first PAL end to end",
+      "Shadow one customer implementation call",
+      "Read the tool-calling and perception docs"
+    ]
+  }
+]
